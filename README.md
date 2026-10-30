@@ -1,2 +1,2 @@
 # qa-playwright-practice
-Learning Playwright
+Learning Playwright as a QA
